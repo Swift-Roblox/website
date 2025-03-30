@@ -36,19 +36,19 @@ const whyCards: WhyCardData[] = [
 
 const reviewsCards: ReviewCardData[] = [
   {
-    title: "John Doe",
+    title: "Hayleyw191",
     img: <User className="size-10 text-white" />,
-    description: "\"Swift is the best server management tool I have ever used. It's fast, reliable, and easy to use.\""
+    description: "\"Has great features, the modules expand our team functionality, and being honest; the bot is really good. Great bot to add to your server.\""
   },
   {
-    title: "Jane Smith",
+    title: "Furrymuncher",
     img: <User className="size-10 text-white" />,
-    description: "\"An incredible tool that has saved me countless hours. Highly recommended!\""
+    description: "\"I believe that Swift Bot is a great tool for Roblox-centred servers. It allows seamless staff activity tracking all through one bot, without the hassle of setting up/paying for an entire system.  Furthermore, it acts as an incentive—staff will work more efficiently if they are aware that their activity is being monitored.\""
   },
   {
-    title: "Alex Johnson",
+    title: "Teaz13",
     img: <User className="size-10 text-white" />,
-    description: "\"Managing my server has never been easier. Swift is a game-changer!\""
+    description: "\"I have not had any issues with swift, very reliable and easy to use!!!\""
   }
 ];
 
