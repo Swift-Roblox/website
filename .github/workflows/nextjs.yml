@@ -67,10 +67,6 @@ jobs:
         run: npm run build
         working-directory: ./src
 
-      - name: Export static site
-        run: npm run export
-        working-directory: ./src
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
